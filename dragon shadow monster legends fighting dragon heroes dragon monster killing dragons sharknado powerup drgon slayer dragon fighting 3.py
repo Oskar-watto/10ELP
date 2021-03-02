@@ -29,9 +29,9 @@ def gamerundown():
         rest
         print("or will you be brutally murdered along the way")
         rest
-        Print("you adventure in dragon shadow monster legends fighting dragon heroes dragon monster killing dragons sharknado powerup dragon slayer dragon fghting 3")
+        print("you adventure in dragon shadow monster legends fighting dragon heroes dragon monster killing dragons sharknado powerup dragon slayer dragon fghting 3")
         rest
-        Print("lets get into playing dragon shadow monster legends fighting dragon heroes dragon monster killing dragons sharknado powerup dragon slayer dragon fghting 3")
+        print("lets get into playing dragon shadow monster legends fighting dragon heroes dragon monster killing dragons sharknado powerup dragon slayer dragon fghting 3")
     
     
     elif rundown == 'N': 
